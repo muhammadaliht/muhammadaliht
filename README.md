@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/muhammadaliht">GitHub</a> •
   <a href="http://www.linkedin.com/in/ali-hassan-ah7">LinkedIn</a> •
-  <a href="https://ali-hassan-portfolio-nine.vercel.app/">Portfolio</a>
 </p>
 
 ---
