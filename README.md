@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
-<h3 align="center">MERN Stack Developer | Frontend Specialist | Building Scalable Web Apps</h3>
+<h3 align="center">Full Stack Developer | Building Scalable Web Apps</h3>
 
 <p align="center">
   <a href="https://github.com/muhammadaliht">GitHub</a> •
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 MERN Stack Developer with real-world project experience  
+- 💻 Full Stack Developer with real-world project experience  
 - ⚡ Specialized in **React, Next.js & modern frontend UI/UX**  
 - 🔗 Experienced in building **full-stack scalable applications**  
 - 📍 Based in Pakistan  
@@ -80,18 +80,6 @@
 - Guidesly (Marketplace UI) → https://guidesly.com/  
 - Dragon Cage → https://muhammadaliht.github.io/dragon-cage/  
 - Stackly SaaS Landing → https://stackly.es/  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadaliht&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadaliht&theme=radical" />
-</p>
 
 ---
 
