@@ -56,22 +56,16 @@
 
 ## 📌 Featured Projects
 
-### 🧾 Digital Invoicing Platform
-- Full-stack invoicing system with **FBR integration**
-- Automated invoice lifecycle & validation  
-🔗 https://digital-invoicing.com.pk/
-
----
-
 ### 🏢 Agency Eleva
 - Secure authentication & role-based access system  
 🔗 https://dev.agencyeleva.com/
 
 ---
 
-### 📚 Muhammadan Quran School Portal
-- Education management system with dashboards  
-🔗 https://portal.muhammadanquranschool.com/
+### 📚 Quran Mentor Online
+- Education management system with dashboards
+- 🔗 https://quranmetoronline.com/
+🔗 https://portal.quranmetoronline.com/
 
 ---
 
