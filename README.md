@@ -64,8 +64,8 @@
 
 ### 📚 Quran Mentor Online
 - Education management system with dashboards
-- 🔗 https://quranmetoronline.com/
-🔗 https://portal.quranmetoronline.com/
+- 🔗 https://quranmentoronline.com/
+🔗 https://portal.quranmentoronline.com/
 
 ---
 
